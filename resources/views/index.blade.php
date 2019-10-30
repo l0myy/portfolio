@@ -106,10 +106,10 @@
     <div class="container">
         <form>
             <div class="row">
-                <div class="col-2 col-lg-6 col-md-8 col-sm-12">
+                <div class="col-lg-6 col-md-8 col-sm-12">
                     <h1>Get in Touch</h1>
                 </div>
-                <div class="col-2 col-lg-6 col-md-8 col-sm-12 right" >
+                <div class="col-lg-6 col-md-8 col-sm-12 right" >
                     <div class="form-group">
                         <input type="text" class="form-control form-control-lg" placeholder="Your Name" name="name">
                     </div>

@@ -153,7 +153,7 @@ body{
 
 .projects img{
     height: 15rem;
-    width: 100%;
+    width: auto;
     margin: 1em;
     display: flex;
 }

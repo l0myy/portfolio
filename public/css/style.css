@@ -151,9 +151,9 @@ body{
     margin: 2em;
 }
 
-.projects img{
-    height: 15rem;
-    width: auto;
+.projects img,.my-img{
+    height: 15em;
+    width: 100%;
     margin: 1em;
     display: flex;
 }

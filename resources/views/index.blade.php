@@ -85,13 +85,13 @@
         <br>
         <h1 class="text-center">Projects</h1>
         <div class="row">
-            <div class="col-lg-5 col-md-16 col-sm-16 text-center">
+            <div class="col-lg-5 col-md-4 col-sm-2 text-center">
                 <h3>Address</h3>
                 <a class="link" href="http://165.22.206.220/address/">
                     <img src="{{asset('images/address.jpg')}}" class="img-fluid my-img">
                 </a>
             </div>
-            <div class="col-lg-5 col-md-16 col-sm-16 text-center">
+            <div class="col-lg-5 col-md-4 col-sm-2 text-center">
                 <h3>Gallery</h3>
                 <a class="link" href="http://165.22.206.220/gallery/">
                     <img src="{{asset('images/gallery.jpg')}}" class="img-fluid my-img">

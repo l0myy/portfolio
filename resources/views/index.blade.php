@@ -62,7 +62,7 @@
                 Also, I completed a M.A. in Informatics technology at <a href="https://www.sut.ru/">The Bonch-Bruevich Saint-Petersburg State University of Telecommunications</a>.
             </p>
             <p>
-                I have spent the last year developing my skills as an AMS Engineer for <a href="https://www.weigandt-consulting.com/">Weigandt Consulting</a>,
+                I have spent the last year developing my skills as an AMS Engineer for <a href="https://www.weigandt-consulting.com/">Weigandt Consulting</a> company,
                 where I have improved my skills in SQL, Shell, Git and Soft skills.
                 Also, I took part as a support team member and as a developer team member.
             </p>
@@ -85,13 +85,13 @@
         <br>
         <h1 class="text-center">Projects</h1>
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-12 text-center">
+            <div class="col-lg-5 col-md-5 col-sm-12 text-center">
                 <h3>Address</h3>
                 <a class="link" href="http://165.22.206.220/address/">
                     <img src="{{asset('images/address.jpg')}}" class="img-fluid my-img">
                 </a>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-12 text-center">
+            <div class="col-lg-5 col-md-5 col-sm-12 text-center">
                 <h3>Gallery</h3>
                 <a class="link" href="http://165.22.206.220/gallery/">
                     <img src="{{asset('images/gallery.jpg')}}" class="img-fluid my-img">
@@ -106,10 +106,10 @@
     <div class="container">
         <form>
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="col-2 col-lg-6 col-md-8 col-sm-12">
                     <h1>Get in Touch</h1>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 right" >
+                <div class="col-2 col-lg-6 col-md-8 col-sm-12 right" >
                     <div class="form-group">
                         <input type="text" class="form-control form-control-lg" placeholder="Your Name" name="name">
                     </div>

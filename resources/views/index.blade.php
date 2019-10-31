@@ -48,10 +48,10 @@
 
 <div class="about" id="about">
     <div class="row about">
-        <div class="col-lg-4 col-md-4 col-sm-12">
-            <img  src="{{asset('images/its_me.jpg')}}" class="img-fluid">
+        <div class="col-lg-4 col-sm-12">
+            <img  src="{{asset('images/its_me.jpg')}}" class="rounded-circle">
         </div>
-        <div class="col-lg-8 col-md-8 col-sm-12 desc">
+        <div class="col-lg-8 col-md-8 col-sm-8 desc">
 
             <h3> Anatolii Trofimov </h3>
             <p>
@@ -85,13 +85,13 @@
         <br>
         <h1 class="text-center">Projects</h1>
         <div class="row">
-            <div class="col-lg-5 col-md-5 col-sm-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 text-center">
                 <h3>Address</h3>
                 <a class="link" href="http://165.22.206.220/address/">
                     <img src="{{asset('images/address.jpg')}}" class="img-fluid my-img">
                 </a>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 text-center">
                 <h3>Gallery</h3>
                 <a class="link" href="http://165.22.206.220/gallery/">
                     <img src="{{asset('images/gallery.jpg')}}" class="img-fluid my-img">
